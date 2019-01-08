@@ -1,9 +1,3 @@
 afsdfsd
 
-<<<<<<< HEAD
-This is second commit
-=======
-asdfasfasdf
-asdfasdf
-asfasf
->>>>>>> dc4144853a038f75027ebf84747bc93c78486f5c
+
