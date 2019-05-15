@@ -4,17 +4,8 @@ Third lien is added
 Seventh line is added
 Eight line is added
 Nine line is added
-<<<<<<< HEAD
 dsfdsf
 dsafdsf
 sadfsdaf
 adsfdsf
 
-=======
-dfsdaf
-asdfdsf
-adfsdaf
-asdfsdaf
-asdfasdf
-asdfds
->>>>>>> updated one file
